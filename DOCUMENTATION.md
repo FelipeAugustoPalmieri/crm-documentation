@@ -10,6 +10,8 @@ This documentation provides an overview of our Customer Relationship Management 
 
 For a visual walkthrough, check out the following guide:
 
+<img src="images/1.png" />
+
 <video width="100%" height="400px" controls>
   <source src="images/0.mp4" type="video/mp4">
   Your browser does not support the video tag.
