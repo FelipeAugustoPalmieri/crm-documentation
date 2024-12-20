@@ -14,6 +14,7 @@ For a visual walkthrough, check out the following guide:
   <source src="images/0.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
 ---
 
 ## Features
